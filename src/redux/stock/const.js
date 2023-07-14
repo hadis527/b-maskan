@@ -1,0 +1,6 @@
+export const GET_STOCK_INDICES = 'GET_STOCK_INDICES';
+export const GET_INDEX_HISTORY = 'GET_INDEX_HISTORY';
+
+
+
+
