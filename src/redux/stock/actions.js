@@ -7,6 +7,10 @@ export const getStockIndices = (data) => ({
   type: GET_STOCK_INDICES,
   payload: data
 });
+export const getIndexHistory = (data) => ({
+  type: GET_INDEX_HISTORY,
+  payload: data
+});
 
 
 
